@@ -1,0 +1,69 @@
+body{
+    background-image: url("arkaplan.png");
+}
+.telefon{
+    position: absolute;
+    width: 30%;
+    height: 70%;
+    bottom: 0;
+    right: 0; 
+}
+.üsttasarım{
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    top: 0;
+    left: 0;
+}
+.yazıarkaplan{
+    position: absolute;
+    width: 50%;
+    margin-top: 220px;
+    margin-left: 50px;
+}
+.yazı{
+    position: absolute;
+    font-family: "Bodoni MT";
+    font-size: 36px;
+    margin-top: 230.8px;
+    margin-left: 100px;
+}
+.yazı2{
+    position: absolute;
+    font-family: "Bodoni MT";
+    font-size: 36px;
+    margin-top: 275px;
+    margin-left: 278px;
+}
+.yazı3{
+    position: absolute;
+    font-family: "Sitka Banner";
+    font-size: 20px;
+    margin-top: 350px;
+    margin-left: 95px;
+}
+.yazı4{
+    position: absolute;
+    font-family: "Sitka Banner";
+    font-size: 20px;
+    margin-top: 400px;
+    margin-left: 290px;
+}
+.üye{
+    position: absolute;
+    width: 9.4%;
+    margin-top: 503px;
+    margin-left: 213px;
+}
+.windows{
+    position: absolute;
+    width: 6.5%;
+    margin-top: 503px;
+    margin-left: 364px;
+}
+.android{
+    position: absolute;
+    width: 6.5%;
+    margin-top: 503px;
+    margin-left: 465px;
+}
